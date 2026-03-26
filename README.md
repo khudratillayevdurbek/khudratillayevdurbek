@@ -62,4 +62,4 @@
 
 ---
 
-⭐ From [Durbek Qudratullayev](https://github.com/YOUR_USERNAME)
+⭐ From [Durbek Qudratullayev](https://github.com/khudratillayevdurbek)
