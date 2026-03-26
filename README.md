@@ -1,102 +1,187 @@
-<h1 align="center">⚡ Khudratillayev</h1>
-<h3 align="center">Builder of Bots • Creator of Startups • Dreamer of the Future</h3>
+<!-- =========================
+     KHUDRATILLAYEV README
+========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Telegram+Bot+Developer;AI+Startup+Explorer;Full+Stack+Learner;Creative+UI%2FUX+Thinker;Building+Ideas+for+the+Future+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Khudratillayev%20Durbek&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn&fontSize=42&desc=AI%20Developer%20%7C%20Telegram%20Bot%20Creator%20%7C%20Startup%20Builder&descAlign=50&descAlignY=60" alt="header"/>
+</p>
+
+<h1 align="center">⚡ Khudratillayev Durbek ⚡</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Developer;Telegram+Bot+Creator;Web+Project+Builder;Startup+Mindset;Uzbekistan+to+Global" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/khudratillayevdurbek">
-    <img src="https://img.shields.io/github/followers/khudratillayevdurbek?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-khudratillayevdurbek-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/khudratillayevdurbek?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-View%20Repos-blue?style=for-the-badge" />
+  <a href="https://t.me/khudratillayev_org">
+    <img src="https://img.shields.io/badge/Telegram-@khudratillayev__org-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=khudratillayevdurbek&style=for-the-badge&color=brightgreen" />
+  <a href="https://instagram.com/khudratillayev_life">
+    <img src="https://img.shields.io/badge/Instagram-@khudratillayev__life-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@khudratillayev_life">
+    <img src="https://img.shields.io/badge/YouTube-@khudratillayev__life-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-I am a developer who loves building bold ideas into real digital products.
-
-I focus on:
-- 🤖 advanced Telegram bots
-- 🌐 modern websites and dashboards
-- 🚖 taxi and delivery platform concepts
-- 🧠 AI-powered startup systems
-- 🎓 education and utility platforms
-
-I believe technology should not only look beautiful, but also solve real problems.
+- 🤖 I build **Telegram bots**, **web projects**, and **creative digital systems**
+- 🧠 Interested in **AI**, **automation**, and **startup ideas**
+- 🌍 From **Uzbekistan**, aiming for **global projects**
+- 💡 Love creating **modern**, **useful**, and **future-ready** products
+- 🎯 My goal is to build strong projects in **AI + Bot + Web + Business**
 
 ---
 
-# ⚙️ Tech Arsenal
+## 🌐 Quick Links
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,bootstrap,react,nextjs,nodejs,nestjs,postgresql,sqlite,git,github,figma,vscode" />
+  <a href="https://t.me/khudratillayev_org">
+    <img src="https://img.shields.io/badge/OPEN%20TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/khudratillayev_life">
+    <img src="https://img.shields.io/badge/OPEN%20INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@khudratillayev_life">
+    <img src="https://img.shields.io/badge/OPEN%20YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://github.com/khudratillayevdurbek">
+    <img src="https://img.shields.io/badge/OPEN%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 🚀 Main Focus
+## 🛠 Tech Stack
 
-## 🤖 Telegram Ecosystem
-- Music bots
-- Game bots
-- Admin systems
-- Smart inline menus
-- Channel subscription systems
-
-## 🌍 Startup Products
-- Super App concepts
-- AI Medical systems
-- AgroTech solutions
-- Smart taxi platforms
-- Educational ecosystems
-
-## 🎨 Design Philosophy
-- premium look
-- clean structure
-- creative interfaces
-- real-time features
-- future-proof systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,postgres,redis,docker,git,github,vscode" />
+</p>
 
 ---
 
-# 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khudratillayevdurbek&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khudratillayevdurbek&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khudratillayevdurbek&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=khudratillayevdurbek&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=khudratillayevdurbek&theme=tokyonight&hide_border=true" height="180"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khudratillayevdurbek&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 Vision
+## 🚀 Featured Projects
 
-- Build products used by thousands, then millions
-- Create premium digital platforms from Uzbekistan to the world
-- Combine AI + design + backend systems into one strong ecosystem
-- Become known for innovation, not imitation
+### 🤖 MegaTrackBot
+Advanced music bot idea with search, playlist, effects, and smart features.
+
+### 🧠 EduCoin
+Interactive learning platform with engaging and creative education system.
+
+### 🚕 Smart Taxi App
+Modern taxi platform idea with smart UI, maps, and real-time features.
+
+### 🛒 MegaStoreBot
+Telegram-based e-commerce bot with premium product and service structure.
 
 ---
 
-# 🌐 Contact
+## 📱 My Platforms
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-Connect-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/khudratillayev_org">
+    <img src="https://img.shields.io/badge/Telegram%20Channel%20or%20Profile-Visit-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/khudratillayev_life">
+    <img src="https://img.shields.io/badge/Instagram%20Profile-Visit-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@khudratillayev_life">
+    <img src="https://img.shields.io/badge/YouTube%20Channel-Visit-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 ---
 
+## 🌍 My Website
+
+> Website link will be added soon.
+
 <p align="center">
-  <b>“I am building not just repositories, but a future.”</b>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Website-Coming%20Soon-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 🤖 My Telegram Bots
+
+> Bot links will be added soon.
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Main%20Bot-Coming%20Soon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Music%20Bot-Coming%20Soon-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💸 Interests
+
+- 💰 Online business
+- 📢 Promotion and branding
+- 🤖 Telegram bot systems
+- 🌐 Web development
+- 🧠 AI-based projects
+- 🎮 Gaming and creative ideas
+
+---
+
+## 🏆 Achievement Goals
+
+- ✅ Build high-quality Telegram bots
+- ✅ Launch useful websites and apps
+- ✅ Create AI-powered systems
+- ✅ Grow personal brand
+- ✅ Build strong startup ecosystem
+
+---
+
+## 📈 Experience Level
+
+```text
+Coding     : ████████░░ 80%
+Bots       : █████████░ 90%
+Web        : ███████░░░ 70%
+Creativity : ██████████ 100%
+Vision     : ██████████ 100%
+🎧 Fun Side
+🎵 Music during coding
+🎮 Gaming mindset
+🚀 Startup vision
+💡 Big future ideas
+🐍 Contribution Snake
+
+To make this work, you will need to set up the snake workflow later.
+
+👀 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=khudratillayevdurbek&label=Profile%20Views&color=00F7FF&style=for-the-badge" /> </p>
+💬 Motto
+<p align="center"> <b>“I build ideas into systems, and systems into the future.”</b> </p> ```
+Muhim
+
+GitHub profile README ishlashi uchun repository nomi aynan shunday bo‘lishi kerak:
+
+khudratillayevdurbek
