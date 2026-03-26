@@ -47,7 +47,7 @@
 
 ## 🌍 Connect With Me
 <p align="left">
-  <a href="https://t.me/YOUR_USERNAME">
+  <a href="https://t.me/Khudratillayev_org">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://instagram.com/YOUR_USERNAME">
