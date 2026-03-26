@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/khudratillayevdurbek">
+    <img src="https://img.shields.io/github/followers/khudratillayevdurbek?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <a href="https://github.com/khudratillayevdurbek?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-View%20Repos-blue?style=for-the-badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=khudratillayevdurbek&style=for-the-badge&color=brightgreen" />
 </p>
 
 ---
