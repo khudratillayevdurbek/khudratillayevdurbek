@@ -20,11 +20,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khudratillayevdurbek&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khudratillayevdurbek&theme=tokyonight" />
 </p>
 
 ---
@@ -37,11 +37,10 @@
 ---
 
 ## 🏆 Certificates
-- 📜 Front-End Development Certificate
-- 📜 Web Design Certificate
-- 📜 IT Fundamentals Certificate
 
-*(You can add images or links of your certificates here)*
+### 📜 My Certificate
+- 🎓 Front-End Certificate  
+👉 [View Certificate](./ser1.pdf)
 
 ---
 
